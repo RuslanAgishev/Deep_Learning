@@ -1,4 +1,8 @@
-4_CNN/Cars_Detection/model_data/yolo.h5
-1_NN_and_Deep_Learning/week1/3_ConvNets/X.pickle
-4_CNN/Cars_Detection/yad2k/models/yolo.h5
-1_NN_and_Deep_Learning/week1/2_Loading_data/X.pickle
+*.h5
+*.pkl
+*.pickle
+
+__pycache__
+*.pyc
+*.ipynb_checkpoints
+
